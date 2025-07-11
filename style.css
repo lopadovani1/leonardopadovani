@@ -942,7 +942,7 @@ body {
   margin-top: 0.1em;
 }
 .studio-desc {
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.7;
   color: #d0d0d0;
   margin-bottom: 2rem;
@@ -1029,6 +1029,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  margin-top: 4.5rem;
 }
 .studio-right .studio-static-img {
   display: none;
@@ -1492,6 +1493,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   position: relative;
+  margin-top: 4.5rem;
 }
 
 .live-dj-section .split-left.studio-right .studio-static-img {
@@ -1561,7 +1563,7 @@ body {
 }
 
 .live-dj-section .split-right .studio-desc {
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.7;
   color: #d0d0d0;
   margin-bottom: 2rem;
@@ -1679,7 +1681,7 @@ body {
 }
 
 .weddings-section .split-left .studio-desc {
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.7;
   color: #d0d0d0;
   margin-bottom: 2rem;
@@ -1701,6 +1703,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  margin-top: 4.5rem;
 }
 
 .weddings-section .split-right .studio-static-img {
